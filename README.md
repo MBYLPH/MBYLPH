@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MBYLPH
 - 👀 I’m interested in C# Programming and Web Development
 - 🌱 I’m currently learning JavaScript and C#
-- 💞️ I’m looking to collaborate on IT professionals
+- 💞️ I’m looking to collaborate with IT professionals
 - 📫 How to reach me, email me in marjohn.bayla@adamson.edu.ph
 
 <!---
