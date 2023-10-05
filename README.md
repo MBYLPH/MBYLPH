@@ -43,11 +43,11 @@
 </style>
 <!-- HTML code that defines the content -->
 <div class='container'>
-<h1 class='title'>Hello, I'm John Doe</h1>
-<h2 class='subtitle'>I'm a full-stack web developer</h2>
+<h1 class='title'>Hello, I'm Marjohn M. Bayla</h1>
+<h2 class='subtitle'>I'm a BSIT 3rd Year Student</h2>
 <div class='icons'>
 <!-- The following images are from Flaticon [^1^][1] -->
-<div class='icon'><img src='https://image.flaticon.com/icons/svg/919/919827.svg' alt='HTML5 logo'></div>
+<div class='icon'><img src='https:// alt='HTML5 logo'></div>
 <div class='icon'><img src='https://image.flaticon.com/icons/svg/919/919826.svg' alt='CSS3 logo'></div>
 <div class='icon'><img src='https://image.flaticon.com/icons/svg/919/919825.svg' alt='JavaScript logo'></div>
 <div class='icon'><img src='https://image.flaticon.com/icons/svg/919/919830.svg' alt='React logo'></div>
